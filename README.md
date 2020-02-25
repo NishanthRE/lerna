@@ -4,6 +4,7 @@
 
 <p align="center">
   A tool for managing JavaScript projects with multiple packages.
+  https://cloudiqtechnologiesinc-my.sharepoint.com/:w:/g/personal/nishanthkumar_cloudiq_io/EQjm7f-iVqNHmYRBHg8cQkkB0lk22P10pbaxNwG5CzdbGw?e=cSU0Uw
 </p>
 
 <p align="center">
